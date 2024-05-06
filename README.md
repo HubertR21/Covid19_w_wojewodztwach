@@ -1,5 +1,5 @@
 # Hubert-Ruczynski-Projects
-Repository to keep Huberts all projects done during his studies, reaseach and free time.
+Repository keeping track on projects I uploaded to GitHub.
 ## Projects:
 - [forester](https://github.com/ModelOriented/forester) - Main project, Bachelor and Master degree thesis topic, source of multiple articles
 - [fairPAN](https://github.com/ModelOriented/FairPAN) - R pacakge for trainign fair neural networks, based on GAN architecture
